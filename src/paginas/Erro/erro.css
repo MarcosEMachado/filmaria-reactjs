@@ -1,0 +1,10 @@
+.erro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.erro h1{
+    font-size: 100px;
+}
